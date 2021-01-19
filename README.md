@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Forklein :rocket: 👋
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning python and other languages
