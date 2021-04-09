@@ -5,6 +5,6 @@
 <hr>
 
 - 🔭 <b>I’m currently working</b>
-- 🌱 <b>I’m currently learning</b>
+- 🌱 <b>I’m currently learning programming</b>
 - :snake: <b>Sneakers addicted</b>
 - :earth_americas: <b>Apuliaresell website and Discord Server</b>
