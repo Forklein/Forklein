@@ -10,7 +10,3 @@
 - :earth_americas: <b>Apuliaresell website and Discord Server</b>
 
 <hr>
-
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.1
-
