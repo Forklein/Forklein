@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 <b>Life coding</b>
+- 🌱 <b>Passionate coding</b>
 - :snake: <b>Sneakers addicted</b>
 - :earth_americas: <b>Apuliaresell website and Discord Server</b>
 
