@@ -8,4 +8,6 @@
 - :snake: <b>Sneakers addicted</b>
 - :earth_americas: <b>Apuliaresell website and Discord Server</b>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
