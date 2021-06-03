@@ -4,9 +4,9 @@
 
 <hr>
 
-- 🌱 <b>Passionate coding</b>
-- :snake: <b>Sneakers addicted</b>
-- :earth_americas: <b>Apuliaresell website and Discord Server</b>
+- 💻 <b>Coding Passion</b>
+- 🌍 <b>Apuliaresell website</b>
+- 🐴 <b>Horse script </b>
 
 [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
