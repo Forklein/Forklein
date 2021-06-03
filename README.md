@@ -8,6 +8,6 @@
 - :snake: <b>Sneakers addicted</b>
 - :earth_americas: <b>Apuliaresell website and Discord Server</b>
 
-[![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein)](https://github.com/forklein/github-readme-stats)
+[![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
 <hr>
