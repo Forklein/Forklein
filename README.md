@@ -4,7 +4,7 @@
 
 <hr>
 
-- 💻 <b>Coding Passion</b>
+- 💻 <b>Coding passion</b>
 - 🌍 <b>Apuliaresell website</b>
 - 🐴 <b>Horse script </b>
 
