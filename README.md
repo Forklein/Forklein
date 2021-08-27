@@ -7,6 +7,7 @@
 - 💻 <b>Coding passion</b>
 - 🌍 <b>Apuliaresell website</b>
 - 🐴 <b>Horse script </b>
+- <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:32,height:32/https://www.filepicker.io/api/file/iperH9IBTIalnkREa5pL"
 
 [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
