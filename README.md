@@ -40,4 +40,10 @@
 [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
 <hr>
-  </body>
+</body>
+
+<style>
+a{
+  text-decoration: none;
+}
+</style>
