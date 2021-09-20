@@ -30,7 +30,6 @@
 
 <hr>
 
-
 - 💻 <b>Coding passion</b>
 - 🌍 <b>Apuliaresell website</b>
 - 🐴 <b>Horse script </b>
@@ -39,13 +38,5 @@
 [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
 <hr>
-</body>
+</body>  
 
-<style>
-.badge{
-  text-align: center;
-}
-a{
-  text-decoration: none;
-}
-</style>
