@@ -1,7 +1,7 @@
 <body>
   <h1>Forklein 😎</h1>
 
-  <div class="badge">
+  <div class="badge align">
     <a href="#">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
