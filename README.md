@@ -1,4 +1,3 @@
-<body>
   <h1>Forklein 😎</h1>
 
   <div class="badge">
@@ -42,5 +41,3 @@
 [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
 <hr>
-</body>  
-
