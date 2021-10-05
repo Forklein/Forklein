@@ -1,6 +1,6 @@
-  <h1>Forklein 😎</h1>
+  <h1 align="center">Forklein 😎</h1>
 
-  <div class="badge">
+  <div class="badge" align="center">
     <a href="#">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -17,12 +17,15 @@
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </a>
     <a href="#">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </a>
     
   </div>
 
-<div class="badge-secondary">
+<div class="badge-secondary" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </a> 
@@ -38,6 +41,6 @@
 - 🐴 <b>Horse script </b>
 - 💼 <b>Boolean careers</b>
 
-[![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
+ [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
 
 <hr>
