@@ -44,11 +44,10 @@
 - 🐴 <b>Horse script </b>
 - 💼 <b>Boolean careers</b>
 
-<hr>
-
 <details>
   <summary><strong>Social</strong></summary>
   <ul>
+    <br>
     <li>
       <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -71,6 +70,8 @@
     </li>
   </ul>
 </details>
+
+<hr>
 
 
  [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
