@@ -46,11 +46,15 @@
 
 <hr>
 
-<details align="center">
+<details>
   <summary>Social</summary>
-    <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </li>
+  </ul>
 </details>
 
 
