@@ -47,7 +47,7 @@
 <hr>
 
 <details>
-  <summary>Social</summary>
+  <strong><summary>Social</summary></strong>
   <ul>
     <li>
       <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
