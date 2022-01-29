@@ -1,6 +1,7 @@
   <h1 align="center">Forklein 😎</h1>
 
-  <div class="badge" align="center">
+  <div class="frontend" align="center">
+    <h2>Frontend</h2>
     <a href="#">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -13,26 +14,25 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> 
     </a>
-    <a href="#">
+  </div>
+
+<div class="backend" align="center">
+  <h2>Backend</h2>
+      <a href="#">
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </a>
-    <a href="#">
+      <a href="#">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </a>
-    
-  </div>
+</div>
 
-<div class="badge-secondary" align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </a> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-  <a href="#">
+<div class="db" align="center">
+<h2>Database</h2>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <a href="#">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 </div>
