@@ -68,9 +68,10 @@
 
 <hr>
 
-<details>
-  <summary><strong>Social</strong></summary>
-  <div align="center">
+<details align="center">
+  <summary><strong>Connect with me</strong></summary>
+  <br/>
+  <div>
       <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
