@@ -1,11 +1,22 @@
   <h1 align="center">Forklein 😎</h1>
 
   <div class="description" align="center">
-  <strong>👨🏾‍💻 I'm a developer passionate about Web Development 👨🏾‍💻</strong>
+  <h2>👨🏾‍💻 I'm a developer passionate about Web Development 👨🏾‍💻</h2>
   </div>
+ 
+ <div align="center">
+  
+    💻 Coding passion
+  
+    🌍 Apuliaresell website
+  
+    🐴 Horse script Chrome Extension
+  
+    💼 Boolean careers
+</div>
 
   <div class="frontend" align="center">
-    <h2>Frontend</h2>
+    <h3>Frontend</h3>
     <a href="#">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -27,7 +38,7 @@
   </div>
 
 <div class="backend" align="center">
-  <h2>Backend</h2>
+  <h3>Backend</h3>
       <a href="#">
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     </a>
@@ -35,18 +46,18 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    </a>
-    <a href="#">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
   </a>
 </div>
 
 <div class="db" align="center">
-<h2>Database</h2>
+<h3>Database</h3>
     <a href="#">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
@@ -54,14 +65,9 @@
 
 <hr>
 
-- 💻 <b>Coding passion</b>
-- 🌍 <b>Apuliaresell website</b>
-- 🐴 <b>Horse script </b>
-- 💼 <b>Boolean careers</b>
-
 <details>
   <summary><strong>Social</strong></summary>
-  <ul>
+  <ul align="center">
     <br>
     <li>
       <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
