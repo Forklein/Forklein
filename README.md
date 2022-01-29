@@ -13,7 +13,10 @@
     🐴 Horse script Chrome Extension
   
     💼 Boolean careers
+  
 </div>
+
+<hr />
 
   <div class="frontend" align="center">
     <h3>Frontend</h3>
@@ -67,34 +70,26 @@
 
 <details>
   <summary><strong>Social</strong></summary>
-  <ul align="center">
-    <br>
-    <li>
+  <div align="center">
       <a href="https://www.linkedin.com/in/giuseppe-pisani93/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
-    </li>
-    <li>
       <a href="https://twitter.com/forklein93">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
       </a>
-    </li>
-    <li>
       <a href="https://www.instagram.com/peppe_pisani/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
-    </li>
-    <li>
       <a href="https://www.facebook.com/giuseppe.pisani.forklein/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
       </a>
-    </li>
-  </ul>
+  </div>
 </details>
 
 <hr>
 
-
- [![Forklein's GitHub stats](https://github-readme-stats.vercel.app/api?username=forklein&theme=dark&show_icons=true)](https://github.com/forklein/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=forklein&theme=tokyonight&show_icons=true">
+</div>
 
 <hr>
