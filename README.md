@@ -69,6 +69,16 @@
     </a>
 </div>
 
+<div class="db" align="center">
+<h3>CMS</h3>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Magento-00000F?style=for-the-badge&logo=magento&logoColor=red">
+    </a>
+</div>
+
 <hr>
 
 <details align="center">
