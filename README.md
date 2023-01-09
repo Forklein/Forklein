@@ -103,7 +103,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forklein&theme=tokyonight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=forklein&theme=merko">
 </div>
 
 <hr>
