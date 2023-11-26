@@ -12,8 +12,6 @@
   
     🐴 Horse script Chrome Extension
   
-    💼 Boolean careers
-  
 </div>
 
 <hr />
