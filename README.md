@@ -6,9 +6,9 @@
  
  <div align="center">
   
-    💻 Coding passion
+    💻 Coding
   
-    🌍 Apuliaresell website
+    🌍 Apuliaresell
   
     🐴 Horse script Chrome Extension
   
