@@ -75,6 +75,9 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Magento-00000F?style=for-the-badge&logo=magento&logoColor=red">
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/shopify-00000F?style=for-the-badge&logo=shopify&logoColor=green">
+    </a>
 </div>
 
 <hr>
