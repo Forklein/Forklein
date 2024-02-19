@@ -82,7 +82,7 @@
 
 <hr>
 
-<details align="center">
+<details open align="center">
   <summary><strong>Connect with me</strong></summary>
   <br/>
   <div>
