@@ -1,7 +1,7 @@
   <h1 align="center">Giuseppe 😎</h1>
 
   <div class="description" align="center">
-  <h2>👨🏾‍💻 I'm a developer passionate about Web Development 👨🏾‍💻</h2>
+  <h2> Developer 👨🏾‍💻</h2>
   </div>
  
  <div align="center">
