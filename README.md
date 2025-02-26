@@ -68,10 +68,10 @@
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Magento-00000F?style=for-the-badge&logo=magento&logoColor=red">
+    <img src="https://img.shields.io/badge/Magento-FF4000?style=for-the-badge&logo=magento&logoColor=red">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Shopify-00000F?style=for-the-badge&logo=shopify&logoColor=green">
+    <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=green">
   </a>
 </div>
 
